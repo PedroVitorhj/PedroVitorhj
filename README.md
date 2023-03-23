@@ -14,10 +14,10 @@
   </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="pedro java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="pedro ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
-  <img align="center" alt="pedro vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
-  <img align="center" alt="pedro python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
+   <img align="center" alt="pedro python" height="30" width="40" src="https://icon-icons.com/pt/icone/python-logo/168886">
   <img align="center" alt="pedro scikit-learn" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Fpt%2Ficone%2Fscikitlearn-logo%2F248582&psig=AOvVaw3UVEveP1Eagz5BZb737xDc&ust=1679664823654000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCC9ZGV8v0CFQAAAAAdAAAAABAE">
+  <img align="center" alt="pedro vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
+    <img align="center" alt="pedro ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
 </div>
 <br />
 <div> 
