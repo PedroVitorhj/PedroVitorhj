@@ -29,7 +29,7 @@
     <img align="center" alt="pedro html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
      <img align="center" alt="pedro css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="pedro js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img width="250" src="https://tenor.com/pt-BR/view/gimme-code-gimme-code-cat-tapping-gif-15479445">
+    <img align="right" width="250" src="https://media.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif">
 </div>
   
 <br />
