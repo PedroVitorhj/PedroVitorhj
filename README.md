@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Pedro Vitor
 
-- 🔭 I’m currently working at @astenecia
+- 🔭 I’m open to work
 - 🌱 I’m currently learning Python and Java
 - 👯 I’m looking to collaborate on software development internship
 - ⚡ Hobbies: Studying artificial intelligence, programming logic and games
